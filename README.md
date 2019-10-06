@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### `Install dependences`
+Run 'npm i' before usage of available scripts
 
 ## Available Scripts
 
